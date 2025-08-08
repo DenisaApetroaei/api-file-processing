@@ -17,8 +17,10 @@ A tiny Flask API that:
 ## 2) Create & activate a virtualenv
 
 python3 -m venv .venv
+
 source .venv/bin/activate
-pip install -r requirements.txt`
+
+pip install -r requirements.txt
 
 ## 4) Configuration
 Copy contents of .env.example in .env for local
